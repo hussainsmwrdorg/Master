@@ -1,2 +1,6 @@
 # Master
-Master Repo
+# Master Repo
+# PHP Code here
+<?
+phpinfo();
+?>
